@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+#container{
+	overflow: hidden;
+}
+#context{
+	float: left;
+	width: 70%;
+	padding: 10px;
+}
+
+#sidebar{
+	float: right;
+	width: 30%;
+	padding: 10px;
+}
+
+#footer{
+	padding: 10px;
+}
